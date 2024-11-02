@@ -1,0 +1,12 @@
+{
+    "id": "farmersdelight-notreepunching-pot",
+    "name": "Farmer's Delight x No Tree Punching Cooking Pot",
+    "version": "1.0-fabric",
+    "output": "build",
+    "data_pack": {
+        "pack_format": 9,       
+        "description": "Re-adds the cooking pot compat recipe between No Tree Punching and Farmer's Delight",              
+        "load": ["."],
+        "zipped": true
+    }
+}
